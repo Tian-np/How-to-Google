@@ -4,5 +4,5 @@
 ##### - การหาข้อมูล
 ##### - คีย์ลัดที่สามารถใช้ได้
 
-#### * [View on our site](https://tian-np.github.io/How-to-Google/index.html)
+#### * [ทดลองใช้ที่นี่](https://tian-np.github.io/How-to-Google/index.html)
 
