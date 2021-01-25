@@ -1,5 +1,4 @@
 # How-to-Google
 
-#### [ลองบนเว็บไซต์ [link]]
+#### [ - View on our site] (https://tian-np.github.io/How-to-Google/index.html)
 
-[link]: https://tian-np.github.io/How-to-Google/index.html
